@@ -32,7 +32,7 @@ Whether you’re a small business owner looking to modernize your operations or 
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Lets Build Online Booking System Using AI Agents
+# Tutorial: Lets Built Marketing Campaign Analyzer Using AI Agents
 
 ## Prerequisites
 - Python installed on your system.
@@ -61,7 +61,7 @@ Whether you’re a small business owner looking to modernize your operations or 
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the Online Booking System Using AI Agents
+Follow these steps to set up and run the  Marketing Campaign Analyzer Using AI Agents
 
 1. Navigate to your project directory:
    ```
@@ -76,15 +76,15 @@ Follow these steps to set up and run the Online Booking System Using AI Agents
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-## Run - Hands-On Guide: Lets Build Online Booking System Using AI Agents
+## Run - Hands-On Guide: Built Marketing Campaign Analyzer Using AI Agents
 
    ```bash 
      
       # Run 
-      streamlit run app.py
+      streamlit run main.py
       
    ```
 
 ## Conclusion and Next Steps
 
-Congratulations! You've just built Let's Build Online Booking System Using AI Agents
+Congratulations! You've just built Marketing Campaign Analyzer Using AI Agents
